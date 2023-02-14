@@ -1,0 +1,17 @@
+* {text-align: left;}
+
+h1,h2,h3{background-color: ghostwhite; color: slateblue;}
+
+body  {color: black;}
+
+p{ font-size: 92%;
+font-family: "Poiret One",Lato Black;}
+
+.boxmodel{border: 5px solid red;
+	display: inline-block;
+	padding: 5px 20px 25px 5px;
+	margin: 0px,20px;
+	width: 30px
+	;}
+
+span{ font-size:2.5em; }
